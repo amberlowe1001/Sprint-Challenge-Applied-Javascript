@@ -29,14 +29,14 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
-
+Direct Object Moduel
 2. What is an event?
-
+a mouseover or a click
 3. What is an event listener?
+a method to insure when an event is called the event is working properly
+4. Why would we convert a NodeList into an Array? arrays are eaiser to map over
 
-4. Why would we convert a NodeList into an Array?
-
-5. What is a component?
+5. What is a component? a piece of a larger moduel
 
 ### Git Set up
 
@@ -51,7 +51,7 @@ Your finished project must include all of the following requirements:
 
 * [ ] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the HTML file itself.
 
-* [ ] Following the instructions in the `Header/index.js` file, create the Header component. 
+* [ ] Following the instructions in the `Header/index.js` file, create the Header component.
 
 * [ ] Following the instructions in the `Tabs/index.js` file, create individual Tabs components.
 
