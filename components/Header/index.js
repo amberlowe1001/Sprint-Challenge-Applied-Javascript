@@ -16,7 +16,7 @@ function Header() {
 	header.classList.add('header');
 
 	let date = document.createElement('span');
-	date.textContent = 'DECEMBER 15, 2019';
+	date.textContent = 'SMARCH 18, 2019';
 	date.classList.add('date');
 	header.appendChild(date);
 
@@ -35,4 +35,4 @@ const headerContainer =
 document.querySelector('.header-container')
 headerContainer.forEach(data => {
   header.appendChild(Header());
-}
+})

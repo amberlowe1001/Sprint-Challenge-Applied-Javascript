@@ -53,3 +53,4 @@ function CardComponent(data) {
 	author.appendChild(name);
 
 	return card;
+}
