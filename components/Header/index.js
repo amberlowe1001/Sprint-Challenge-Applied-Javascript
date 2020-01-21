@@ -29,7 +29,7 @@ function Header() {
 	temp.classList.add('temp');
 	header.appendChild(temp);
 
-	return header;
+	return Header;
 };
 const headerContainer =
 document.querySelector('.header-container')
